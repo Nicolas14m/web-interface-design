@@ -1,2 +1,5 @@
 # web-interface-design
-Emphasizing usability and user experience, this course trains in interface design in a web environment, implementing with HTML, CSS and front-end development frameworks (Boostrap), which complies with standards and good market practices.
+
+This work is the final project of the subject "Web Interface Design" of the career "Information Technology Analyst" at ORT University, Montevideo, Uruguay.
+
+Made in December 2021 
